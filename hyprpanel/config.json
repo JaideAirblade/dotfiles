@@ -1,0 +1,20 @@
+{
+  "theme.font.name": "FiraCode Nerd Font Propo",
+  "theme.font.label": "FiraCode Nerd Font Propo Semi-Bold",
+  "theme.bar.floating": false,
+  "theme.bar.buttons.enableBorders": false,
+  "theme.bar.enableShadow": false,
+  "theme.bar.buttons.workspaces.enableBorder": false,
+  "theme.bar.buttons.systray.enableBorder": false,
+  "bar.battery.hideLabelWhenFull": true,
+  "menus.media.displayTime": true,
+  "theme.bar.border.location": "none",
+  "theme.osd.enable": true,
+  "menus.power.lowBatteryNotification": true,
+  "menus.dashboard.stats.enable_gpu": true,
+  "wallpaper.image": "/home/simon/Pictures/Wallpaper.jpeg",
+  "wallpaper.pywal": true,
+  "theme.bar.menus.monochrome": false,
+  "menus.clock.weather.location": "Husum",
+  "menus.clock.weather.enabled": false
+}
