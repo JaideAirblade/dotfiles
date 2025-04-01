@@ -16,5 +16,13 @@
   "wallpaper.pywal": true,
   "theme.bar.menus.monochrome": false,
   "menus.clock.weather.location": "Husum",
-  "menus.clock.weather.enabled": false
+  "menus.clock.weather.enabled": false,
+  "theme.font.size": "1.1rem",
+  "bar.autoHide": "fullscreen",
+  "bar.workspaces.show_numbered": true,
+  "bar.workspaces.show_icons": false,
+  "theme.bar.buttons.windowtitle.enableBorder": false,
+  "bar.network.showWifiInfo": true,
+  "theme.bar.buttons.modules.ram.enableBorder": false,
+  "bar.customModules.netstat.dynamicIcon": true
 }
